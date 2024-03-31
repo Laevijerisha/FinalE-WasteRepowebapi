@@ -217,6 +217,5 @@ namespace E_wasteManagementWebapi.Controllers
             return Ok();
         }
 
-
     }
 }

@@ -1,12 +1,20 @@
 {
   "Files": [
     {
+      "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\032f088a-eeef-4cfc-9b70-282b277e12be_Laptop.png",
+      "PackagePath": "staticwebassets\\images\\032f088a-eeef-4cfc-9b70-282b277e12be_Laptop.png"
+    },
+    {
       "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\10fc3a11-a668-4713-ab0b-7ffbdf4d737f_download.jpg",
       "PackagePath": "staticwebassets\\images\\10fc3a11-a668-4713-ab0b-7ffbdf4d737f_download.jpg"
     },
     {
       "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\1649eb29-158a-47b1-9867-78f4fc152756_cul.gif",
       "PackagePath": "staticwebassets\\images\\1649eb29-158a-47b1-9867-78f4fc152756_cul.gif"
+    },
+    {
+      "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\1b1670bf-5715-45cb-b47a-b7da7c3333fb_Laptop.png",
+      "PackagePath": "staticwebassets\\images\\1b1670bf-5715-45cb-b47a-b7da7c3333fb_Laptop.png"
     },
     {
       "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\1ecdfbc3-ba0e-4087-bfe5-5679919176ac_images.jpg",
@@ -25,12 +33,20 @@
       "PackagePath": "staticwebassets\\images\\34507390-44bc-4880-b198-14c1313eb098_download.jpg"
     },
     {
+      "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\46e1a73a-669b-44f6-96b5-7a7956d63ee2_damaged mobile.jpg",
+      "PackagePath": "staticwebassets\\images\\46e1a73a-669b-44f6-96b5-7a7956d63ee2_damaged mobile.jpg"
+    },
+    {
       "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\4741941b-e964-4612-bfcc-f7d3b2aae295_Capture.PNG",
       "PackagePath": "staticwebassets\\images\\4741941b-e964-4612-bfcc-f7d3b2aae295_Capture.PNG"
     },
     {
       "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\5b0cab3d-916f-4e16-a322-6af447e8eb51_robo.jpg",
       "PackagePath": "staticwebassets\\images\\5b0cab3d-916f-4e16-a322-6af447e8eb51_robo.jpg"
+    },
+    {
+      "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\67150ad3-ab0d-4245-a5be-d968424426a7_damaged Tv.jpg",
+      "PackagePath": "staticwebassets\\images\\67150ad3-ab0d-4245-a5be-d968424426a7_damaged Tv.jpg"
     },
     {
       "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\681b6ae6-f58f-4ce4-8b6e-2ac126086ae1_download.jpg",
@@ -57,6 +73,22 @@
       "PackagePath": "staticwebassets\\images\\8bf5981a-2282-4163-9fa3-2c718962b0ad_ai tool.png"
     },
     {
+      "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\8d8741d5-7e60-467f-9311-ef288db4e4e9_damaged mobile.jpg",
+      "PackagePath": "staticwebassets\\images\\8d8741d5-7e60-467f-9311-ef288db4e4e9_damaged mobile.jpg"
+    },
+    {
+      "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\984db0c3-f0a8-42ed-8a31-699d1ec70a91_damaged Tv.jpg",
+      "PackagePath": "staticwebassets\\images\\984db0c3-f0a8-42ed-8a31-699d1ec70a91_damaged Tv.jpg"
+    },
+    {
+      "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\9f5f6eeb-d07f-45ce-86e5-add2e11de3ce_damaged mobile.jpg",
+      "PackagePath": "staticwebassets\\images\\9f5f6eeb-d07f-45ce-86e5-add2e11de3ce_damaged mobile.jpg"
+    },
+    {
+      "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\a52e0e67-ad8c-4812-9606-b2668f6cb559_Laptop.png",
+      "PackagePath": "staticwebassets\\images\\a52e0e67-ad8c-4812-9606-b2668f6cb559_Laptop.png"
+    },
+    {
       "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\ab825ce9-554b-433f-af73-61eee04b6064_cul.gif",
       "PackagePath": "staticwebassets\\images\\ab825ce9-554b-433f-af73-61eee04b6064_cul.gif"
     },
@@ -79,6 +111,10 @@
     {
       "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\d8df1280-9eb6-4d5a-bb25-9687cfb41611_Assessment.PNG",
       "PackagePath": "staticwebassets\\images\\d8df1280-9eb6-4d5a-bb25-9687cfb41611_Assessment.PNG"
+    },
+    {
+      "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\f2200862-f811-4bd0-962d-be63dfebd605_damaged mobile.jpg",
+      "PackagePath": "staticwebassets\\images\\f2200862-f811-4bd0-962d-be63dfebd605_damaged mobile.jpg"
     },
     {
       "Id": "D:\\E-WasteManagement\\E-wasteManagementWebapi\\E-wasteManagementWebapi\\wwwroot\\images\\f4a8bbaa-206b-4c4d-be03-e1a1de747ddc_download.jpg",

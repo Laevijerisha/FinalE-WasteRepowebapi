@@ -6,6 +6,7 @@ using E_wasteManagementWebapi.Controllers;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -13,7 +14,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<E_WasteDbContext>(options => options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"), new MySqlServerVersion(new Version())));
-builder.Services.AddScoped<IEmailService, EmailService>();
+
 #region CORS setting for API
 builder.Services.AddCors(options =>
 {
@@ -26,6 +27,7 @@ builder.Services.AddCors(options =>
     );
 });
 #endregion
+
 
 var app = builder.Build();
 
